@@ -1,0 +1,178 @@
+{
+    "sourceFile": "WATCH.HTML",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 40,
+            "patches": [
+                {
+                    "date": 1714548578676,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1714548744875,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <tit</title>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548755763,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,11 +2,10 @@\n <html lang=\"en\">\r\n <head>\r\n     <meta charset=\"UTF-8\">\r\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <tit</title>\r\n+    <title></title>\r\n </head>\r\n <body>\r\n     \r\n </body>\r\n-</html>\n\\ No newline at end of file\n-!\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548762073,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>wc</title>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548767550,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clo</title>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548775662,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>c</title>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548781875,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,43 +2,10 @@\n <html lang=\"en\">\r\n <head>\r\n     <meta charset=\"UTF-8\">\r\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>c</title>\r\n+    <title>CLO</title>\r\n </head>\r\n <body>\r\n     \r\n </body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clo</title>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>wc</title>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title></title>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548788267,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>C</title>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548795685,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clo</title>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548827802,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,12 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    \r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548833592,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,12 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"\">\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548845957,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,12 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"wa\">\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548854798,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    \r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548861386,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    s\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548874067,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script>de</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548880646,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script>defer</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548905054,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script>defer </script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548911323,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script>defer src</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548930746,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548940887,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src+</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548956361,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src='</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548963754,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\"</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548974131,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\"wat</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548981230,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\"watc</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548988856,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\"watch </script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714548997869,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\" </script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549003741,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\"WATCH </script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549010668,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\"WATCH.JS </script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549017205,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\"WATCH.JS </script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549033970,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,14 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script> defer src=\"WATCH.JS\" \r\n+    </script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549056229,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <scriptdefer src=\"WATCH.JS\"</script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549067819,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,13 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script defer src=\"WATCH.JS\"></script>\r\n+</head>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549078961,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,14 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script defer src=\"WATCH.JS\"></script>\r\n+</head>\r\n+\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549084447,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,14 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script defer src=\"WATCH.JS\"></script>\r\n+</head>\r\n+H1\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549095694,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,14 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script defer src=\"WATCH.JS\"></script>\r\n+</head>\r\n+<H1 ></H1>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549103912,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,14 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script defer src=\"WATCH.JS\"></script>\r\n+</head>\r\n+<H1 ></H1>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549110742,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,15 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script defer src=\"WATCH.JS\"></script>\r\n+</head>\r\n+<H1 .HEADER\r\n+></H1>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549117217,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,396 +6,9 @@\n     <title>clock</title>\r\n     <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n     <script defer src=\"WATCH.JS\"></script>\r\n </head>\r\n-<H1 .HEADER\r\n-></H1>\r\n+<H1 .></H1>\r\n <body>\r\n     \r\n </body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script defer src=\"WATCH.JS\"></script>\r\n-</head>\r\n-<H1 ></H1>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script defer src=\"WATCH.JS\"></script>\r\n-</head>\r\n-<H1 ></H1>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script defer src=\"WATCH.JS\"></script>\r\n-</head>\r\n-H1\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script defer src=\"WATCH.JS\"></script>\r\n-</head>\r\n-\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script defer src=\"WATCH.JS\"></script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <scriptdefer src=\"WATCH.JS\"</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\"WATCH.JS\" \r\n-    </script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\"WATCH.JS </script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\"WATCH.JS </script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\"WATCH </script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\" </script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\"watch </script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\"watc</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\"wat</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src=\"</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src='</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src+</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script> defer src</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script>defer src</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script>defer </script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script>defer</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    <script>de</script>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    s\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n-    \r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"wa\">\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    <link rel=\"stylesheet\" href=\"\">\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clock</title>\r\n-    \r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>clo</title>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>C</title>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n-</html>\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>CLO</title>\r\n-</head>\r\n-<body>\r\n-    \r\n-</body>\r\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549123679,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n     <title>clock</title>\r\n     <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n     <script defer src=\"WATCH.JS\"></script>\r\n </head>\r\n-<H1 .></H1>\r\n+<H1.></H1>\r\n <body>\r\n     \r\n </body>\r\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549131552,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n     <title>clock</title>\r\n     <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n     <script defer src=\"WATCH.JS\"></script>\r\n </head>\r\n-<H1 DIV></H1>\r\n+<H1 DIV.HEADER></H1>\r\n <body>\r\n     \r\n </body>\r\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714549138872,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,14 @@\n+<!DOCTYPE html>\r\n+<html lang=\"en\">\r\n+<head>\r\n+    <meta charset=\"UTF-8\">\r\n+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n+    <title>clock</title>\r\n+    <link rel=\"stylesheet\" href=\"WATCH.CSS\">\r\n+    <script defer src=\"WATCH.JS\"></script>\r\n+</head>\r\n+<H1 ></H1>\r\n+<body>\r\n+    \r\n+</body>\r\n+</html>\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1714548578676,
+            "name": "Commit-0",
+            "content": "!"
+        }
+    ]
+}

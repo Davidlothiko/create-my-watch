@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>clock</title>
+    <link rel="stylesheet" href="WATCH.CSS">
+    <script defer src="WATCH.JS"></script>
+</head>
+<H1 class="HEADER"> WELCOME TO MY REALY NEW TIME clock</H1>
+<body>
+    <DIV class="clock">
+    <DIV class="hand hour" data-hour-Hand></DIV>
+    <div class="hand minute" data-minute-hand></div>
+    <div class="hand second" data-second-hand></div>
+    <div class="number number1">1</div>
+    <div class="number number2">2</div>
+    <div class="number number3">3</div>
+    <div class="number number4">4</div>
+    <div class="number number5">5</div>
+    <div class="number number6">6</div>
+    <div class="number number7">7</div>
+    <div class="number number8">8</div>
+    <div class="number number9">9</div>
+    <div class="number number10">10</div>
+    <div class="number number11">11</div>
+    <div class="number number12">12</div>
+
+</DIV> 
+<script>
+    setInterval(setclock, 1000)
+
+    const hourhand=document.querySelector("{data-hour-hand}")
+    const minutehand=document.querySelector("{data-minute-hand}")
+    const secndhand=document,querySelector("{data-second-hand}")
+
+    function setclock(){
+        const currentdate=new date()
+        const secodratio=currentdate.getseconds()/60
+        const minuteratio=(secondratio + currentdate,getminutes)
+        const hoursRatio= (minuteratio+ currentdate,getHours)
+        setRotation(secondhand,secondratio)
+        setRotation(minuteHand,minuteHand)
+        setRotation(hourhand,hoursRatio)
+    }
+    
+    function setRotation(element,rotationRaTIO){
+        Element.style.setProperty("--rotation",rotationRaTIO*360)
+    }
+
+    setclock()
+</script>
+</body>
+</html>

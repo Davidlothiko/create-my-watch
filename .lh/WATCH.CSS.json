@@ -1,0 +1,110 @@
+{
+    "sourceFile": "WATCH.CSS",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 23,
+            "patches": [
+                {
+                    "date": 1714558893940,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1714558919117,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-,\n\\ No newline at end of file\n+;\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714558927952,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +0,0 @@\n-;\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714558936675,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+af\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714558945840,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+::after\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714558952743,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+::after.\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714558961411,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+::after\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714558983940,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +0,0 @@\n-::after\n-::after.\n-::after\n-af\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714558991083,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+afet\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714558997657,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-afet\n\\ No newline at end of file\n+after\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559006539,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-after\n\\ No newline at end of file\n+after.\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559011943,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-after.\n\\ No newline at end of file\n+after,\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559018295,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-after,\n\\ No newline at end of file\n+after,b\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559025643,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+after,bef\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559031302,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+after,::before\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559066321,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+after,::before()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559073168,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +0,0 @@\n-after,::before()\n-after,::before\n-after,bef\n-after,b\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559079900,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+*,\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559089995,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-*,\n\\ No newline at end of file\n+*,*:\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559097923,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+*,*::after\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559105376,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,1 @@\n-*,*::after\n-*,*:\n\\ No newline at end of file\n+*,*::\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559110839,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-*,*::\n\\ No newline at end of file\n+*,*\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559122021,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-*,*:\n\\ No newline at end of file\n+*,*::\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1714559128727,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+*,*::after,\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1714558893940,
+            "name": "Commit-0",
+            "content": ","
+        }
+    ]
+}
